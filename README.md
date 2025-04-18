@@ -1,4 +1,4 @@
-#MultiCAN_NXP
+MultiCAN_NXP
 
 Simple Multi CAN Testing Code 
 Main Code : It  will receive receive and send data continuously , sending speed is 10ms.
